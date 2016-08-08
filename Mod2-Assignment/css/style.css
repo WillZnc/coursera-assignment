@@ -12,6 +12,7 @@ h1 {
 
 h2 {
   font-size: 125%;
+  width: 200px;
   padding: 5px; 
   margin: 5px;
   border: 1px solid black;
