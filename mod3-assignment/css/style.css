@@ -1,0 +1,33 @@
+body {
+	font-family: georgia;
+}
+hr {
+	margin: 5px;
+	overflow: hidden;
+}
+#main-title {
+	font-size: 2em;
+}
+.navbar-brand {
+	margin-top: 25px;
+}
+.navbar-header {
+	min-height: 100px;
+}
+.navbar-toggle {
+	margin-top: 32px;
+}
+#menu-toggle {
+	text-align: center;
+}
+#menu-container {
+	font-size: 1.5em;
+	width: 95%;
+	background-color: #EBEBEB;
+	margin-bottom: 10px;
+	border-radius: 6px;
+}
+#title {
+	font-size: 2.5em;
+	padding: 20px;
+}
