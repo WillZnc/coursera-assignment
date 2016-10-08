@@ -1,0 +1,48 @@
+body {
+	font-family: georgia;
+}
+hr {
+	margin: 5px;
+	overflow: hidden;
+}
+h3 {
+	background-color: #EBEBEB;
+	font-size: 1.2em;
+	margin: 10px;
+	border-radius: 6px;
+}
+li:hover {
+	background-color: white;
+}
+#main-title {
+	font-size: 2em;
+}
+.navbar-brand {
+	margin-top: 25px;
+}
+.navbar-header {
+	min-height: 100px;
+}
+.navbar-toggle {
+	margin-top: 32px;
+}
+#menu-toggle {
+	text-align: center;
+}
+#menu-container {
+	font-size: 1.5em;
+	width: 95%;
+	background-color: white;
+	margin-bottom: 10px;
+	border-radius: 6px;
+}
+#title {
+	font-size: 2.5em;
+	padding: 20px;
+}
+#div-menu {
+	border-radius: 4px;
+}
+#color {
+	color: #82C0FF;
+}
